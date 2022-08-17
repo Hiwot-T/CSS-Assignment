@@ -1,0 +1,64 @@
+body{
+    font-size: 15px;
+    line-height: 1.46668;
+    font-weight: 400;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline-block;
+    justify-content: space-between;
+    
+}
+a:link{
+    text-decoration: none;
+    padding: 1em;
+}
+a[href]{
+    color: white;
+}
+#know{
+    color: blue;
+}
+.intro{
+    background-color:  #000;
+    margin-left: 3.2rem;
+    margin-right: 3.2rem;
+}
+.brief{
+    background-color: #c6bfbf;
+    
+}
+#brief-statement{
+    margin-left: 3.2rem;
+}
+.container{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.row{
+    padding: 0.5rem 1rem;
+}
+.footer{
+    background-color: #0b4d14;
+    display: flex;
+    justify-content: space-between;
+    margin: 3.2rem;
+    height: 3em;
+
+}
+.row-one{
+    padding-left: 3.2rem;
+
+}
+.row-two{
+    padding-right: 3.2rem;
+
+}
+.wrapper{
+    text-align: center;
+}
+
